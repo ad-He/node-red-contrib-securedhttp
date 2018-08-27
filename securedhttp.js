@@ -20,6 +20,7 @@ module.exports = function(RED) {
     var cookieParser = require("cookie-parser");
     var getBody = require('raw-body');
     var cors = require('cors');
+    // modify default size
     var jsonParser = bodyParser.json({limit: '5mb'});
     var urlencParser = bodyParser.urlencoded({extended:true});
     var onHeaders = require('on-headers');
