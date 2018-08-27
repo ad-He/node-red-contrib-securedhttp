@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/kehangchen/node-red-contrib-securedhttp.git"
+    "url": "https://github.com/ad-He/node-red-contrib-securedhttp.git"
   },
   "license": "Apache",
   "keywords": [
